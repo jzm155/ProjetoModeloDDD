@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net6.0\ProjetoModeloDDD.MVC.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net6.0\ProjetoModeloDDD.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net6.0\ProjetoModeloDDD.MVC.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net6.0\ProjetoModeloDDD.MVC.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net6.0\ProjetoModeloDDD.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net6.0\ProjetoModeloDDD.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net6.0\ProjetoModeloDDD.MVC.RazorAssemblyInfo.cache
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\net6.0\ProjetoModeloDDD.MVC.RazorAssemblyInfo.cs

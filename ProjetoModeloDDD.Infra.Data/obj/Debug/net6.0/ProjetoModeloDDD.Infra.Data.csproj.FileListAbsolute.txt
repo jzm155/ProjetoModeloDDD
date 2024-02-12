@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\net6.0\ProjetoModeloDDD.Infra.Data.deps.json
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\net6.0\ProjetoModeloDDD.Infra.Data.runtimeconfig.json
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\net6.0\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\net6.0\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\net6.0\ProjetoModeloDDD.Domain.dll
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\net6.0\ProjetoModeloDDD.Domain.pdb
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\ProjetoModeloDDD.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\ProjetoModeloDDD.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\ProjetoModeloDDD.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\ProjetoModeloDDD.Infra.Data.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\refint\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\ProjetoModeloDDD.Infra.Data.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net6.0\ref\ProjetoModeloDDD.Infra.Data.dll
